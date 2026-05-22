@@ -38,6 +38,24 @@ CS undergraduate at TMU with experience in software development and low-code pla
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanishas04&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+
+## Projects
+
+<a href="https://github.com/tanishas04/java-runner">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=tanishas04&repo=java-runner&theme=dark&hide_border=true&icon_color=7C3AED&title_color=7C3AED" />
+</a>
+
+### 🟣 Company Fitness Activity Tracker
+> A company fitness activity tracker built using Java · Private
+
+![Java](https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-7C3AED?style=for-the-badge&logo=javafx&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🟣 Pet Clinic Management System
+> A pet clinic system built using Java · Private
+
+![Java](https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white)
 ---
 
 ![](https://komarev.com/ghpvc/?username=tanishas04&color=A855F7&style=flat)
