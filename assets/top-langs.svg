@@ -1,5 +1,18 @@
-<svg width="340" height="150" viewBox="0 0 340 150" xmlns="http://www.w3.org/2000/svg">
-  <style>text{font-family:'Segoe UI',Ubuntu,Sans-Serif;fill:#c9c9c9}.title{font-size:14px;font-weight:600;fill:#fff}</style>
-  <rect x="0" y="0" width="340" height="150" rx="6" fill="#151515"/>
-  <text x="25" y="30" class="title">Generating...</text>
+<svg width="340" height="135" viewBox="0 0 340 135" xmlns="http://www.w3.org/2000/svg">
+  <style>
+  text { font-family: 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9c9c9; }
+  .title { font-size: 16px; font-weight: 600; fill: #ffffff; }
+  .label { font-size: 13px; fill: #9f9f9f; }
+  .value { font-size: 13px; font-weight: 700; fill: #ffffff; }
+  .big { font-size: 28px; font-weight: 700; fill: #ffffff; }
+  .small { font-size: 11px; fill: #9f9f9f; }
+</style>
+  <rect x="0.5" y="0.5" width="339" height="134" rx="6" fill="#151515" stroke="#2a2a2a"/>
+  
+  <text x="25" y="30" class="title">Most Used Languages</text>
+  <rect x="25" y="55" width="290" height="10" rx="5" fill="#2a2a2a"/>
+  <rect x="25" y="55" width="196.15376637743285" height="10" fill="#b07219"/><rect x="221.15376637743285" y="55" width="93.84623362256715" height="10" fill="#f1e05a"/>
+  <circle cx="30" cy="85" r="4" fill="#b07219"/><text x="42" y="89" class="label">Java 67.64%</text>
+  <circle cx="30" cy="105" r="4" fill="#f1e05a"/><text x="42" y="109" class="label">JavaScript 32.36%</text>
+
 </svg>

@@ -1,5 +1,27 @@
 <svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
-  <style>text{font-family:'Segoe UI',Ubuntu,Sans-Serif;fill:#c9c9c9}.title{font-size:14px;font-weight:600;fill:#fff}</style>
-  <rect x="0" y="0" width="600" height="150" rx="6" fill="#151515"/>
-  <text x="25" y="30" class="title">Generating...</text>
+  <style>
+  text { font-family: 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9c9c9; }
+  .title { font-size: 16px; font-weight: 600; fill: #ffffff; }
+  .label { font-size: 13px; fill: #9f9f9f; }
+  .value { font-size: 13px; font-weight: 700; fill: #ffffff; }
+  .big { font-size: 28px; font-weight: 700; fill: #ffffff; }
+  .small { font-size: 11px; fill: #9f9f9f; }
+</style>
+  <rect x="0.5" y="0.5" width="599" height="149" rx="6" fill="#151515" stroke="#2a2a2a"/>
+  
+  <line x1="200" y1="20" x2="200" y2="140" stroke="#2a2a2a"/>
+  <line x1="400" y1="20" x2="400" y2="140" stroke="#2a2a2a"/>
+
+  <text x="100" y="60" class="big" text-anchor="middle">79</text>
+  <text x="100" y="85" class="label" text-anchor="middle">Total Contributions</text>
+  <text x="100" y="105" class="small" text-anchor="middle">Sep 28, 2025 - Present</text>
+
+  <text x="300" y="60" class="big" text-anchor="middle" fill="#7C3AED">1</text>
+  <text x="300" y="85" class="label" text-anchor="middle">Current Streak</text>
+  <text x="300" y="105" class="small" text-anchor="middle">Sep 30, 2026</text>
+
+  <text x="500" y="60" class="big" text-anchor="middle">2</text>
+  <text x="500" y="85" class="label" text-anchor="middle">Longest Streak</text>
+  <text x="500" y="105" class="small" text-anchor="middle">May 21, 2026 - May 22, 2026</text>
+
 </svg>
