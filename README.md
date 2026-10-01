@@ -40,7 +40,7 @@ CS undergraduate at TMU with experience in software development and low-code pla
 
 ## Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=tanishas04&theme=react-dark&hide_border=true&bg_color=0d1117)
+![](https://ghchart.rshah.org/7C3AED/tanishas04)
 
 ---
 
