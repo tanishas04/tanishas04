@@ -38,6 +38,10 @@ CS undergraduate at TMU with experience in software development and low-code pla
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanishas04&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=tanishas04&theme=react-dark&hide_border=true&bg_color=0d1117)
+
 ---
 
 
