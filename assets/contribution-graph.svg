@@ -1,0 +1,9 @@
+<svg width="760" height="140" viewBox="0 0 760 140" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9c9c9; }
+    .title { font-size: 14px; font-weight: 600; fill: #ffffff; }
+  </style>
+  <rect x="0" y="0" width="760" height="140" rx="6" fill="#151515"/>
+  <text x="28" y="18" class="title">Contribution graph generating...</text>
+  <text x="28" y="40" font-size="11">This fills in after the "Update Contribution Graph" Action first runs.</text>
+</svg>

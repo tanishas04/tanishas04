@@ -40,7 +40,7 @@ CS undergraduate at TMU with experience in software development and low-code pla
 
 ## Contribution Graph
 
-![](https://ghchart.rshah.org/7C3AED/tanishas04)
+![](https://raw.githubusercontent.com/tanishas04/tanishas04/main/assets/contribution-graph.svg)
 
 ---
 

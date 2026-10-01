@@ -1,0 +1,35 @@
+name: Update Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily at 06:00 UTC
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate contribution graph
+        env:
+          GH_USERNAME: tanishas04
+          GRAPHQL_TOKEN: ${{ secrets.GRAPHQL_TOKEN }}
+        run: node scripts/generate-graph.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-graph.svg
+          git diff --staged --quiet || git commit -m "Update contribution graph"
+          git push
