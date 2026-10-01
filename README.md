@@ -32,11 +32,11 @@ CS undergraduate at TMU with experience in software development and low-code pla
 
 ## GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=tanishas04&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://raw.githubusercontent.com/tanishas04/tanishas04/main/assets/stats.svg)
 
-![](https://streak-stats.demolab.com/?user=tanishas04&theme=dark&hide_border=true)
+![](https://raw.githubusercontent.com/tanishas04/tanishas04/main/assets/streak.svg)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanishas04&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://raw.githubusercontent.com/tanishas04/tanishas04/main/assets/top-langs.svg)
 
 ## Contribution Graph
 
