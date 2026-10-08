@@ -12,7 +12,7 @@
   <line x1="200" y1="20" x2="200" y2="140" stroke="#2a2a2a"/>
   <line x1="400" y1="20" x2="400" y2="140" stroke="#2a2a2a"/>
 
-  <text x="100" y="60" class="big" text-anchor="middle">79</text>
+  <text x="100" y="60" class="big" text-anchor="middle">94</text>
   <text x="100" y="85" class="label" text-anchor="middle">Total Contributions</text>
   <text x="100" y="105" class="small" text-anchor="middle">Oct 5, 2025 - Present</text>
 
